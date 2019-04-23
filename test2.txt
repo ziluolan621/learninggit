@@ -1,0 +1,6 @@
+git is a version control system.
+Git is free software.
+git is easy to use
+git is good
+aaaaaa
+bbbbb
